@@ -11,9 +11,11 @@ Detailed documents are in preparation.
 
 Please cite the paper if you are using these plugins in your research:
 
-“Optogenetic perturbation and bioluminescence imaging to analyze cell-to-cell transfer of oscillatory information”, A. Isomura, F. Ogushi, H. Kori, R. Kageyama, [Genes Dev. 31, 524-535 (2017).](https://doi.org/10.1101/gad.294546.116)
+“Optogenetic perturbation and bioluminescence imaging to analyze cell-to-cell transfer of oscillatory information”,
+
+*A. Isomura, F. Ogushi, H. Kori, *R. Kageyama, [Genes Dev. 31, 524-535 (2017).](https://doi.org/10.1101/gad.294546.116)
 
 ## Contact
 
-If you have any question, please contact to [a.isomura@infront.kyoto-u.ac.jp](a.isomura@infront.kyoto-u.ac.jp).
+If you have any question, please contact to a.isomura@infront.kyoto-u.ac.jp.
 
