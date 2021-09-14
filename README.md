@@ -1,6 +1,7 @@
 # Supplemental materials of Isomura et al. Genes Dev. 2017. 
 
-These are ImageJ/Fiji plugins that were used for the analysis of 2D time-lapse imaging data. Detailed documents are in preparation.
+These are ImageJ/Fiji plugins that were used for the analysis of 2D time-lapse imaging data.
+Detailed documents are in preparation.
 
 - [Spike-Noise Filter](https://github.com/aisomur/genes_dev_2017/releases): filtering spike-noise due to cosmic ray in bioluminescence images.
 - [Temporal background reduction](https://github.com/aisomur/genes_dev_2017/releases): simply subtracting averaging values in ROI from the all TIFF-only analysis.
