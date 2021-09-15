@@ -17,5 +17,5 @@ Please cite the paper if you are using these plugins in your research:
 
 ## Contact
 
-If you have any question, please contact to a.isomura@infront.kyoto-u.ac.jp.
+If you have any question, please contact to aisomura@infront.kyoto-u.ac.jp.
 
